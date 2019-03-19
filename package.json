@@ -1,0 +1,22 @@
+{
+  "name": "book2",
+  "version": "1.0.0",
+  "description": "在线电子书2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8qiqi/book2.git"
+  },
+  "author": "8qiqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8qiqi/book2/issues"
+  },
+  "homepage": "https://github.com/8qiqi/book2#readme"
+  "devDependencies": {
+     "gitbook-cli": "^2.3.2"             
+  }
+}
